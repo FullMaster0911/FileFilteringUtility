@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="File_Filtering_Utility">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/File_Filtering_Utility.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
